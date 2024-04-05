@@ -22,7 +22,7 @@ I'm Ramya, a passionate software developer with a focus on data engineering and 
 
 💬 Ask me about data engineering, Python programming, or anything related to technology!
 
-📫 How to reach me: [YourEmail@example.com](mailto:ramya.08ram@gmail.com)
+📫 How to reach me: [ramya.08ram@gmail.com](mailto:ramya.08ram@gmail.com)
 
 ⚡ Fun fact: Did you know that the amount of data generated worldwide is expected to double every two years? It's an exciting time to be in the field of data science and engineering!
 
