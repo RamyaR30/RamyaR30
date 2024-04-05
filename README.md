@@ -20,7 +20,7 @@ I'm Ramya, a passionate software developer with a focus on data engineering and 
 
 🌱 I’m currently learning advanced techniques in cloud computing and data visualization.
 
-💬 Ask me about data engineering, Python programming, or anything related to technology!
+💬 Ask me about data engineering, Python programming, or anything related to data-driven decision making!
 
 📫 How to reach me: [ramya.08ram@gmail.com](mailto:ramya.08ram@gmail.com)
 
